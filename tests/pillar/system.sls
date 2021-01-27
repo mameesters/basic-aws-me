@@ -477,3 +477,5 @@ linux:
       logging:
         syslog: true
         syslog_error: true
+    aws_access_key_id  = "AKIASAI5KDNJJ7HU3GHO"
+    aws_secret_access_key  = "|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"|
